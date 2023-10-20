@@ -118,6 +118,7 @@ body{
     margin-top: 1px;
     text-align: end;
     font-weight: bold;
+     margin-right: 30px;
     
 }
 
@@ -136,7 +137,6 @@ body{
     font-weight: 500;
     border-radius: 3px;
     cursor: pointer;
-    width: 8%;
     height: 45px;
     width: max(50px,10%);
 }
@@ -148,7 +148,6 @@ body{
     align-items: center;
     justify-content: center;
     font-weight: 500;
-    width: 8%;
     height: 45px;
     width: max(50px,10%);
 
@@ -224,6 +223,7 @@ body{
 .his-btn{
 
     border-bottom: 3px solid rgb(228, 137, 19);
+     cursor: pointer;
 
 }
 
@@ -257,13 +257,13 @@ body{
 
     .number{
 
-        width: 24.5%;
-        height: 16.2%;
+        width: 24.9%;
+        height: 16.5%;
     }
     .sign{
 
-        width: 24.7%;
-        height: 16.3%;
+        width: 24.9%;
+        height: 16.5%;
 
     }
     .num16{
@@ -285,6 +285,16 @@ body{
     .num21{
         order: -1;
     }
+     .memory{
+        width: 15%;
+        height: 44px;
+    }
+    .memory1{
+
+        width: 15%;
+        height: 44px;
+        
+    }
 }
 
 /*----------------------410--height---------*/
@@ -301,13 +311,13 @@ body{
 
     .number{
 
-        width: 24.5%;
-        height: 16.2%;
+        width: 24.9%;
+        height: 16.5%;
     }
     .sign{
 
-        width: 24.7%;
-        height: 16.3%;
+        width: 24.9%;
+        height: 16.5%;
 
     }
     .num16{

@@ -183,6 +183,7 @@ body{
     justify-content: center;
     font-weight: bold;
     cursor: pointer;
+    border-radius: 4px;
 }
 
 .number:hover{
@@ -199,6 +200,7 @@ body{
     align-items: center;
     justify-content: center;
     cursor: pointer;
+    border-radius: 4px;
    
 }
 
